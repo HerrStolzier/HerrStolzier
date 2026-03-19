@@ -10,16 +10,16 @@ My workflow: Claude Code as my pair programmer, real projects as my classroom. E
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**klangfarbe**](https://github.com/HerrStolzier/klangfarbe) | See what music looks like — real-time audio visualization | Next.js, Canvas 2D, Web Audio API |
-| [**beatmatch**](https://github.com/HerrStolzier/beatmatch) | Hear a beat, tap it back — rhythm accuracy game | TypeScript, Web Audio API |
-| [**beattrack**](https://github.com/HerrStolzier/beattrack) | Find songs that sound alike — sonic similarity search | Next.js + FastAPI, Essentia, pgvector |
+| [**klangfarbe**](https://klangfarbe.vercel.app) | See what music looks like — real-time audio visualization | Next.js, Canvas 2D, Web Audio API |
+| [**beatmatch**](https://beatmatch-sigma.vercel.app) | Hear a beat, tap it back — rhythm accuracy game | TypeScript, Web Audio API |
+| [**beattrack**](https://beattrack.app) | Find songs that sound alike — sonic similarity search | Next.js + FastAPI, Essentia, pgvector |
 
 **Other projects:**
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [**lotse**](https://github.com/HerrStolzier/lotse) | Capture anything, classify it, route it — personal data pilot | Python, LLMs, Ollama |
-| [**hundequiz-page**](https://github.com/HerrStolzier/hundequiz-page) | Dog breed matching quiz with evidence-based logic | Next.js, Vercel |
+| [**welcher-hund-passt**](https://welcher-hund-passt.vercel.app) | Dog breed matching quiz with evidence-based logic | Next.js, Vercel |
 
 ## How I work
 
