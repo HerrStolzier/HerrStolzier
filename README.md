@@ -1,41 +1,55 @@
-# Hey, I'm Basti
+# Hi, I'm Basti
 
-I build things with AI. Not as a professional developer — as someone who decided to learn by shipping.
+I build real products with AI as a collaborator.
 
-My workflow: Claude Code as my pair programmer, real projects as my classroom. Every repo here is something I actually wanted to exist, built from scratch with agentic engineering. Some of it is rough. All of it is real.
+Most of what I ship sits in one of three lanes:
+- audio experiments people can touch in the browser
+- local-first AI tools for everyday workflows
+- calm developer tooling for macOS
 
-## What I'm building
+I learn by shipping, not by waiting until I feel "ready". Some repos are polished, some are still early, but they are all real things I wanted to exist.
 
-**The Audio Trio** — three projects exploring what you can do with sound in the browser:
+## Featured Projects
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**klangfarbe**](https://klangfarbe.vercel.app) | See what music looks like — real-time audio visualization | Next.js, Canvas 2D, Web Audio API |
-| [**beatmatch**](https://beatmatch-sigma.vercel.app) | Hear a beat, tap it back — rhythm accuracy game | TypeScript, Web Audio API |
-| [**beattrack**](https://beattrack.app) | Find songs that sound alike — sonic similarity search | Next.js + FastAPI, Essentia, pgvector |
+| Project | What it does | Links |
+|---|---|---|
+| **Klangfarbe** | Real-time audio visualizer for uploaded songs, live mic input, and short previews. | [Live](https://klangfarbe.vercel.app) · [Repo](https://github.com/HerrStolzier/klangfarbe) |
+| **Beat Match** | Browser rhythm game: hear a beat, tap it back, and test your timing. | [Live](https://beatmatch-sigma.vercel.app) · [Repo](https://github.com/HerrStolzier/beatmatch) |
+| **Beattrack** | Song similarity search powered by audio analysis, embeddings, and a proper web app stack. | [Live](https://beattrack.app) · [Repo](https://github.com/HerrStolzier/beattrack) |
+| **Kurier** | Capture anything, classify it, and route it with a local-first AI workflow. | [Repo](https://github.com/HerrStolzier/kurier) |
+| **Welcher Hund passt?** | Evidence-based dog breed quiz with transparent matching logic. | [Live](https://welcher-hund-passt.vercel.app) · [Repo](https://github.com/HerrStolzier/welcher-hund-passt) |
+| **Local LLM Lab** | Private lab for local LLM workflows, Qwen experiments, and practical Mac setup notes. | Private repo |
 
-**Other projects:**
+## New Directions
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**lotse**](https://github.com/HerrStolzier/lotse) | Capture anything, classify it, route it — personal data pilot | Python, LLMs, Ollama |
-| [**welcher-hund-passt**](https://welcher-hund-passt.vercel.app) | Dog breed matching quiz with evidence-based logic | Next.js, Vercel |
+These are the newer ideas I am shaping right now:
 
-## How I work
+- **dev-dashboard-feed**: a calm macOS app that turns local HTML docs into a readable developer feed
+- **local-security-twin**: a local-first macOS security companion for normal users, focused on privacy, hardening, and guided checks
 
+## How I Build
+
+```text
+idea -> small prototype -> real usage -> refine the UX -> ship the next version
 ```
-idea → Claude Code → ship → learn → repeat
-```
 
-I don't pretend to know everything. I use AI tools heavily and I'm transparent about it. The code is mine — the decisions, the architecture, the bugs. The AI helps me write it faster than I could alone, but the thinking is the part that matters.
+I use AI tools heavily and I am transparent about that.
+The code still reflects my decisions, taste, mistakes, and iteration speed.
 
-## Currently learning
+## What Matters To Me
 
-- TypeScript + Next.js (getting comfortable)
-- Python backend patterns (FastAPI, async workers)
-- Audio DSP fundamentals (because the math behind sound is fascinating)
-- How to test properly (E2E with Playwright, the hard way)
+- real products over toy demos
+- local-first systems when privacy matters
+- clear UX, not just clever architecture
+- practical tools that people can understand in one read
+
+## Current Focus
+
+- Web Audio and audio-first interfaces
+- agent workflows that feel useful instead of flashy
+- local LLM setups on Apple Silicon
+- shipping small products with a stronger product feel
 
 ---
 
-*Learning the path by walking it.*
+*Learning in public by building things that should actually exist.*
