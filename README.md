@@ -1,55 +1,62 @@
 # Hi, I'm Basti
 
-I build real products with AI as a collaborator.
+I build and fix practical software with AI as a collaborator.
 
-Most of what I ship sits in one of three lanes:
-- audio experiments people can touch in the browser
-- local-first AI tools for everyday workflows
-- calm developer tooling for macOS
+My strongest lanes right now:
 
-I learn by shipping, not by waiting until I feel "ready". Some repos are polished, some are still early, but they are all real things I wanted to exist.
+- React and Next.js fixes for existing apps
+- Python automation, API integrations, and small backend tools
+- local-first AI workflows, developer tooling, and macOS utilities
 
-## Featured Projects
+I like focused problems with a clear outcome: fix a failing route, clean up a workflow,
+connect an API, make a script reliable, or turn a rough prototype into something easier
+to run and verify.
 
-| Project | What it does | Links |
+## What I Can Help With
+
+- Broken React or Next.js behavior
+- API route, serverless function, and Vercel deployment issues
+- TypeScript, JavaScript, and Python debugging
+- Supabase, FastAPI, REST API, and webhook integrations
+- Small automation scripts and internal workflow tools
+- Clear handovers with root cause, changed files, and verification steps
+
+## Selected Projects
+
+| Project | What it shows | Stack |
 |---|---|---|
-| **Klangfarbe** | Real-time audio visualizer for uploaded songs, live mic input, and short previews. | [Live](https://klangfarbe.vercel.app) · [Repo](https://github.com/HerrStolzier/klangfarbe) |
-| **Beat Match** | Browser rhythm game: hear a beat, tap it back, and test your timing. | [Live](https://beatmatch-sigma.vercel.app) · [Repo](https://github.com/HerrStolzier/beatmatch) |
-| **Beattrack** | Song similarity search powered by audio analysis, embeddings, and a proper web app stack. | [Live](https://beattrack.app) · [Repo](https://github.com/HerrStolzier/beattrack) |
-| **Kurier** | Capture anything, classify it, and route it with a local-first AI workflow. | [Repo](https://github.com/HerrStolzier/kurier) |
-| **Welcher Hund passt?** | Evidence-based dog breed quiz with transparent matching logic. | [Live](https://welcher-hund-passt.vercel.app) · [Repo](https://github.com/HerrStolzier/welcher-hund-passt) |
-| **Local LLM Lab** | Private lab for local LLM workflows, Qwen experiments, and practical Mac setup notes. | Private repo |
+| [Kurier](https://github.com/HerrStolzier/kurier) | Local-first document capture, classification, routing, search, REST API, and model quality checks. | Python, FastAPI, local LLMs |
+| [Beattrack](https://github.com/HerrStolzier/beattrack) | Full-stack song similarity search with a real web app, API, audio analysis, and tests. | Next.js, React, TypeScript, FastAPI, Python |
+| [local-security-twin](https://github.com/HerrStolzier/local-security-twin) | Local-first macOS security companion with privacy and guided checks as the product constraint. | Swift, macOS |
+| [dev-dashboard-feed](https://github.com/HerrStolzier/dev-dashboard-feed) | Native macOS developer feed for turning local HTML docs into a calmer reading workflow. | Swift, macOS |
+| [Klangfarbe](https://github.com/HerrStolzier/klangfarbe) | Browser audio visualizer for uploaded audio, microphone input, and live visuals. | TypeScript, Web Audio |
+| [Beat Match](https://github.com/HerrStolzier/beatmatch) | Browser rhythm game with generated beats and timing feedback. | TypeScript, React |
 
-## New Directions
-
-These are the newer ideas I am shaping right now:
-
-- **dev-dashboard-feed**: a calm macOS app that turns local HTML docs into a readable developer feed
-- **local-security-twin**: a local-first macOS security companion for normal users, focused on privacy, hardening, and guided checks
-
-## How I Build
+## How I Work
 
 ```text
-idea -> small prototype -> real usage -> refine the UX -> ship the next version
+clear problem -> inspect the repo -> make a small change -> verify -> document the handover
 ```
 
-I use AI tools heavily and I am transparent about that.
-The code still reflects my decisions, taste, mistakes, and iteration speed.
+For client-style work, I usually need:
 
-## What Matters To Me
+- a repo or minimal reproduction
+- expected behavior
+- the current error, screenshot, or log
+- setup and test commands
+- deployment/runtime details when relevant
 
-- real products over toy demos
-- local-first systems when privacy matters
-- clear UX, not just clever architecture
-- practical tools that people can understand in one read
+I use AI tools heavily, but I do not treat generated output as done. The useful part is still
+understanding the problem, keeping the change scoped, and verifying the result.
 
 ## Current Focus
 
-- Web Audio and audio-first interfaces
-- agent workflows that feel useful instead of flashy
-- local LLM setups on Apple Silicon
-- shipping small products with a stronger product feel
+- React, Next.js, and API bug fixes
+- Vercel and serverless routing issues
+- Python automation for real workflows
+- local-first AI tools that are understandable in one read
+- small products with clear UX and testable behavior
 
 ---
 
-*Learning in public by building things that should actually exist.*
+Building useful things, one verified change at a time.
