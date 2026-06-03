@@ -12,6 +12,10 @@ I like focused problems with a clear outcome: fix a failing route, clean up a wo
 connect an API, make a script reliable, or turn a rough prototype into something easier
 to run and verify.
 
+## Proof of Work
+
+- [AI App Rescue Case Studies](https://github.com/HerrStolzier/ai-app-rescue-case-study) - public demo repo showing how I handle small broken app issues: failure, diagnosis, minimal fix, verification, and handover.
+
 ## What I Can Help With
 
 - Broken React or Next.js behavior
