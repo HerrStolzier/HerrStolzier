@@ -1,66 +1,31 @@
-# Hi, I'm Basti
+# Hi, I'm Basti 👋
 
-I build and fix practical software with AI as a collaborator.
+I build practical tools with AI and learn by making things I want to use myself.
 
-My strongest lanes right now:
+My interests come together around **macOS, audio and making information easier to work with**. I care about clear interfaces, understandable workflows and checking whether something actually works in everyday use.
 
-- React and Next.js fixes for existing apps
-- Python automation, API integrations, and small backend tools
-- local-first AI workflows, developer tooling, and macOS utilities
+## Currently building: OpenDictate
 
-I like focused problems with a clear outcome: fix a failing route, clean up a workflow,
-connect an API, make a script reliable, or turn a rough prototype into something easier
-to run and verify.
+[**OpenDictate**](https://github.com/HerrStolzier/OpenDictate) is a small macOS dictation app: press a shortcut, speak and get text into the app you're using.
 
-## Proof of Work
+It uses your own OpenAI API key for transcription, keeps the key in macOS Keychain and provides a clipboard fallback when direct insertion isn't available.
 
-- [AI App Rescue Case Studies](https://github.com/HerrStolzier/ai-app-rescue-case-study) - public demo repo showing how I handle small broken app issues: failure, diagnosis, minimal fix, verification, and handover.
+**Status:** under active development. Build instructions are available in the repository; a notarized public app download is not yet available.
 
-## What I Can Help With
+## More projects
 
-- Broken React or Next.js behavior
-- API route, serverless function, and Vercel deployment issues
-- TypeScript, JavaScript, and Python debugging
-- Supabase, FastAPI, REST API, and webhook integrations
-- Small automation scripts and internal workflow tools
-- Clear handovers with root cause, changed files, and verification steps
+| Project | What it's about |
+|---|---|
+| [**Kurier**](https://github.com/HerrStolzier/kurier) | A local-first document tool for capturing, classifying and finding information, with optional cloud AI providers. |
+| [**Beattrack**](https://github.com/HerrStolzier/beattrack) | Exploring music discovery through audio analysis and song similarity. |
+| [**Klangfarbe**](https://github.com/HerrStolzier/klangfarbe) | Turning music into interactive visuals in the browser. |
 
-## Selected Projects
+These projects are at different stages of development. Their repositories describe setup, current functionality and limitations.
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [Kurier](https://github.com/HerrStolzier/kurier) | Local-first document capture, classification, routing, search, REST API, and model quality checks. | Python, FastAPI, local LLMs |
-| [Beattrack](https://github.com/HerrStolzier/beattrack) | Full-stack song similarity search with a real web app, API, audio analysis, and tests. | Next.js, React, TypeScript, FastAPI, Python |
-| [local-security-twin](https://github.com/HerrStolzier/local-security-twin) | Local-first macOS security companion with privacy and guided checks as the product constraint. | Swift, macOS |
-| [dev-dashboard-feed](https://github.com/HerrStolzier/dev-dashboard-feed) | Native macOS developer feed for turning local HTML docs into a calmer reading workflow. | Swift, macOS |
-| [Klangfarbe](https://github.com/HerrStolzier/klangfarbe) | Browser audio visualizer for uploaded audio, microphone input, and live visuals. | TypeScript, Web Audio |
-| [Beat Match](https://github.com/HerrStolzier/beatmatch) | Browser rhythm game with generated beats and timing feedback. | TypeScript, React |
+## How I build
 
-## How I Work
+AI is a substantial part of my development process. I use it to explore ideas, understand code, build features and investigate problems.
 
-```text
-clear problem -> inspect the repo -> make a small change -> verify -> document the handover
-```
+I aim for small, understandable changes and practical verification. Automated checks help, and trying the actual user workflow matters too.
 
-For client-style work, I usually need:
-
-- a repo or minimal reproduction
-- expected behavior
-- the current error, screenshot, or log
-- setup and test commands
-- deployment/runtime details when relevant
-
-I use AI tools heavily, but I do not treat generated output as done. The useful part is still
-understanding the problem, keeping the change scoped, and verifying the result.
-
-## Current Focus
-
-- React, Next.js, and API bug fixes
-- Vercel and serverless routing issues
-- Python automation for real workflows
-- local-first AI tools that are understandable in one read
-- small products with clear UX and testable behavior
-
----
-
-Building useful things, one verified change at a time.
+Along the way, I'm learning more about Swift and SwiftUI, Python, TypeScript and the tools behind useful software.
