@@ -14,12 +14,37 @@ It uses your own OpenAI API key for transcription, keeps the key in macOS Keycha
 
 ## More projects
 
-| Project | What it's about |
-|---|---|
-| [**Kurier**](https://github.com/HerrStolzier/kurier) | A local-first document tool for capturing, classifying and finding information, with optional cloud AI providers. |
-| [**Beattrack**](https://github.com/HerrStolzier/beattrack) | Exploring music discovery through audio analysis and song similarity. |
+### [Kurier](https://github.com/HerrStolzier/kurier)
 
-These projects are at different stages of development. Their repositories describe setup, current functionality and limitations.
+A local-first document tool for capturing, classifying and finding information, with optional cloud AI providers.
+
+**Status:** development version with a local dashboard and CLI. The latest published handover identifies review-folder integration as unfinished; this is not a finished consumer release. [Setup](https://github.com/HerrStolzier/kurier#schnellstart) · [Known limitations](https://github.com/HerrStolzier/kurier/blob/main/HANDOVER.md)
+
+<details>
+<summary>See the dashboard</summary>
+
+![Kurier dashboard with document search and upload controls, using an empty demo database](assets/kurier.png)
+
+Actual dashboard captured on September 15, 2026, from the published source with a separate empty database. No personal documents or AI processing results are shown.
+
+</details>
+
+### [Beattrack](https://github.com/HerrStolzier/beattrack)
+
+Exploring music discovery through audio analysis and song similarity.
+
+**Status:** a public web interface is available. Recommendation quality and provider availability remain development concerns; this screenshot shows the interface, not an end-to-end search test. [Open the web app](https://beattrack.app) · [Source and setup](https://github.com/HerrStolzier/beattrack)
+
+<details>
+<summary>See the web interface</summary>
+
+![Beattrack web interface with a song-link field, audio upload, Sonic Blend and Vibe controls](assets/beattrack.png)
+
+Actual public start page captured on September 15, 2026. No uploads or searches were performed for this screenshot.
+
+</details>
+
+Find me on [X (@herrstolzier)](https://x.com/herrstolzier).
 
 ## How I build
 
