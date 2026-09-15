@@ -18,7 +18,6 @@ It uses your own OpenAI API key for transcription, keeps the key in macOS Keycha
 |---|---|
 | [**Kurier**](https://github.com/HerrStolzier/kurier) | A local-first document tool for capturing, classifying and finding information, with optional cloud AI providers. |
 | [**Beattrack**](https://github.com/HerrStolzier/beattrack) | Exploring music discovery through audio analysis and song similarity. |
-| [**Klangfarbe**](https://github.com/HerrStolzier/klangfarbe) | Turning music into interactive visuals in the browser. |
 
 These projects are at different stages of development. Their repositories describe setup, current functionality and limitations.
 
