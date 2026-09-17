@@ -29,21 +29,6 @@ Actual dashboard captured on September 15, 2026, from the published source with 
 
 </details>
 
-### [Beattrack](https://github.com/HerrStolzier/beattrack)
-
-Exploring music discovery through audio analysis and song similarity.
-
-**Status:** a public web interface is available. Recommendation quality and provider availability remain development concerns; this screenshot shows the interface, not an end-to-end search test. [Open the web app](https://beattrack.app) · [Source and setup](https://github.com/HerrStolzier/beattrack)
-
-<details>
-<summary>See the web interface</summary>
-
-![Beattrack web interface with a song-link field, audio upload, Sonic Blend and Vibe controls](assets/beattrack.png)
-
-Actual public start page captured on September 15, 2026. No uploads or searches were performed for this screenshot.
-
-</details>
-
 Find me on [X (@herrstolzier)](https://x.com/herrstolzier).
 
 ## How I build
